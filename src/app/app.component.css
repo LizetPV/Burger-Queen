@@ -1,0 +1,17 @@
+.principal{
+  color: white;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: red;
+}
+
+p{
+  color: green;
+}
+body{
+  background-color: blue;
+}
+
+h1{
+  color: blue;
+}
